@@ -1,0 +1,22 @@
+{
+    "type": "module",
+    "name": "tp2-21f-parcial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "node test/indexTest.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/malu2388/TP2-21F-Parcial.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/malu2388/TP2-21F-Parcial/issues"
+    },
+    "homepage": "https://github.com/malu2388/TP2-21F-Parcial#readme"
+}
